@@ -1,0 +1,5 @@
+# Pycharm user data
+.idea
+
+# Xcode user data
+frontend/frontend.xcodeproj/xcuserdata

@@ -7,62 +7,62 @@
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
-		FF757F332E27EEC100B5403A /* PBXContainerItemProxy */ = {
+		FF8C204D2E2834B7003BE36A /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = FF757F1D2E27EEC000B5403A /* Project object */;
+			containerPortal = FF8C20372E2834B5003BE36A /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = FF757F242E27EEC000B5403A;
-			remoteInfo = frontend;
+			remoteGlobalIDString = FF8C203E2E2834B5003BE36A;
+			remoteInfo = app;
 		};
-		FF757F3D2E27EEC100B5403A /* PBXContainerItemProxy */ = {
+		FF8C20572E2834B7003BE36A /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = FF757F1D2E27EEC000B5403A /* Project object */;
+			containerPortal = FF8C20372E2834B5003BE36A /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = FF757F242E27EEC000B5403A;
-			remoteInfo = frontend;
+			remoteGlobalIDString = FF8C203E2E2834B5003BE36A;
+			remoteInfo = app;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		FF757F252E27EEC000B5403A /* frontend.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = frontend.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		FF757F322E27EEC100B5403A /* frontendTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = frontendTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		FF757F3C2E27EEC100B5403A /* frontendUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = frontendUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		FF8C203F2E2834B5003BE36A /* app.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = app.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FF8C204C2E2834B7003BE36A /* appTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = appTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		FF8C20562E2834B7003BE36A /* appUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = appUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		FF757F272E27EEC000B5403A /* frontend */ = {
+		FF8C20412E2834B5003BE36A /* app */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = frontend;
+			path = app;
 			sourceTree = "<group>";
 		};
-		FF757F352E27EEC100B5403A /* frontendTests */ = {
+		FF8C204F2E2834B7003BE36A /* appTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = frontendTests;
+			path = appTests;
 			sourceTree = "<group>";
 		};
-		FF757F3F2E27EEC100B5403A /* frontendUITests */ = {
+		FF8C20592E2834B7003BE36A /* appUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = frontendUITests;
+			path = appUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		FF757F222E27EEC000B5403A /* Frameworks */ = {
+		FF8C203C2E2834B5003BE36A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		FF757F2F2E27EEC100B5403A /* Frameworks */ = {
+		FF8C20492E2834B7003BE36A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		FF757F392E27EEC100B5403A /* Frameworks */ = {
+		FF8C20532E2834B7003BE36A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -72,22 +72,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		FF757F1C2E27EEC000B5403A = {
+		FF8C20362E2834B5003BE36A = {
 			isa = PBXGroup;
 			children = (
-				FF757F272E27EEC000B5403A /* frontend */,
-				FF757F352E27EEC100B5403A /* frontendTests */,
-				FF757F3F2E27EEC100B5403A /* frontendUITests */,
-				FF757F262E27EEC000B5403A /* Products */,
+				FF8C20412E2834B5003BE36A /* app */,
+				FF8C204F2E2834B7003BE36A /* appTests */,
+				FF8C20592E2834B7003BE36A /* appUITests */,
+				FF8C20402E2834B5003BE36A /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		FF757F262E27EEC000B5403A /* Products */ = {
+		FF8C20402E2834B5003BE36A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				FF757F252E27EEC000B5403A /* frontend.app */,
-				FF757F322E27EEC100B5403A /* frontendTests.xctest */,
-				FF757F3C2E27EEC100B5403A /* frontendUITests.xctest */,
+				FF8C203F2E2834B5003BE36A /* app.app */,
+				FF8C204C2E2834B7003BE36A /* appTests.xctest */,
+				FF8C20562E2834B7003BE36A /* appUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,134 +95,134 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		FF757F242E27EEC000B5403A /* frontend */ = {
+		FF8C203E2E2834B5003BE36A /* app */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FF757F462E27EEC100B5403A /* Build configuration list for PBXNativeTarget "frontend" */;
+			buildConfigurationList = FF8C20602E2834B7003BE36A /* Build configuration list for PBXNativeTarget "app" */;
 			buildPhases = (
-				FF757F212E27EEC000B5403A /* Sources */,
-				FF757F222E27EEC000B5403A /* Frameworks */,
-				FF757F232E27EEC000B5403A /* Resources */,
+				FF8C203B2E2834B5003BE36A /* Sources */,
+				FF8C203C2E2834B5003BE36A /* Frameworks */,
+				FF8C203D2E2834B5003BE36A /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				FF757F272E27EEC000B5403A /* frontend */,
+				FF8C20412E2834B5003BE36A /* app */,
 			);
-			name = frontend;
+			name = app;
 			packageProductDependencies = (
 			);
-			productName = frontend;
-			productReference = FF757F252E27EEC000B5403A /* frontend.app */;
+			productName = app;
+			productReference = FF8C203F2E2834B5003BE36A /* app.app */;
 			productType = "com.apple.product-type.application";
 		};
-		FF757F312E27EEC100B5403A /* frontendTests */ = {
+		FF8C204B2E2834B7003BE36A /* appTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FF757F492E27EEC100B5403A /* Build configuration list for PBXNativeTarget "frontendTests" */;
+			buildConfigurationList = FF8C20632E2834B7003BE36A /* Build configuration list for PBXNativeTarget "appTests" */;
 			buildPhases = (
-				FF757F2E2E27EEC100B5403A /* Sources */,
-				FF757F2F2E27EEC100B5403A /* Frameworks */,
-				FF757F302E27EEC100B5403A /* Resources */,
+				FF8C20482E2834B7003BE36A /* Sources */,
+				FF8C20492E2834B7003BE36A /* Frameworks */,
+				FF8C204A2E2834B7003BE36A /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				FF757F342E27EEC100B5403A /* PBXTargetDependency */,
+				FF8C204E2E2834B7003BE36A /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				FF757F352E27EEC100B5403A /* frontendTests */,
+				FF8C204F2E2834B7003BE36A /* appTests */,
 			);
-			name = frontendTests;
+			name = appTests;
 			packageProductDependencies = (
 			);
-			productName = frontendTests;
-			productReference = FF757F322E27EEC100B5403A /* frontendTests.xctest */;
+			productName = appTests;
+			productReference = FF8C204C2E2834B7003BE36A /* appTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		FF757F3B2E27EEC100B5403A /* frontendUITests */ = {
+		FF8C20552E2834B7003BE36A /* appUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FF757F4C2E27EEC100B5403A /* Build configuration list for PBXNativeTarget "frontendUITests" */;
+			buildConfigurationList = FF8C20662E2834B7003BE36A /* Build configuration list for PBXNativeTarget "appUITests" */;
 			buildPhases = (
-				FF757F382E27EEC100B5403A /* Sources */,
-				FF757F392E27EEC100B5403A /* Frameworks */,
-				FF757F3A2E27EEC100B5403A /* Resources */,
+				FF8C20522E2834B7003BE36A /* Sources */,
+				FF8C20532E2834B7003BE36A /* Frameworks */,
+				FF8C20542E2834B7003BE36A /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				FF757F3E2E27EEC100B5403A /* PBXTargetDependency */,
+				FF8C20582E2834B7003BE36A /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				FF757F3F2E27EEC100B5403A /* frontendUITests */,
+				FF8C20592E2834B7003BE36A /* appUITests */,
 			);
-			name = frontendUITests;
+			name = appUITests;
 			packageProductDependencies = (
 			);
-			productName = frontendUITests;
-			productReference = FF757F3C2E27EEC100B5403A /* frontendUITests.xctest */;
+			productName = appUITests;
+			productReference = FF8C20562E2834B7003BE36A /* appUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		FF757F1D2E27EEC000B5403A /* Project object */ = {
+		FF8C20372E2834B5003BE36A /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1640;
 				LastUpgradeCheck = 1640;
 				TargetAttributes = {
-					FF757F242E27EEC000B5403A = {
+					FF8C203E2E2834B5003BE36A = {
 						CreatedOnToolsVersion = 16.4;
 					};
-					FF757F312E27EEC100B5403A = {
+					FF8C204B2E2834B7003BE36A = {
 						CreatedOnToolsVersion = 16.4;
-						TestTargetID = FF757F242E27EEC000B5403A;
+						TestTargetID = FF8C203E2E2834B5003BE36A;
 					};
-					FF757F3B2E27EEC100B5403A = {
+					FF8C20552E2834B7003BE36A = {
 						CreatedOnToolsVersion = 16.4;
-						TestTargetID = FF757F242E27EEC000B5403A;
+						TestTargetID = FF8C203E2E2834B5003BE36A;
 					};
 				};
 			};
-			buildConfigurationList = FF757F202E27EEC000B5403A /* Build configuration list for PBXProject "frontend" */;
+			buildConfigurationList = FF8C203A2E2834B5003BE36A /* Build configuration list for PBXProject "app" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = FF757F1C2E27EEC000B5403A;
+			mainGroup = FF8C20362E2834B5003BE36A;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = FF757F262E27EEC000B5403A /* Products */;
+			productRefGroup = FF8C20402E2834B5003BE36A /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				FF757F242E27EEC000B5403A /* frontend */,
-				FF757F312E27EEC100B5403A /* frontendTests */,
-				FF757F3B2E27EEC100B5403A /* frontendUITests */,
+				FF8C203E2E2834B5003BE36A /* app */,
+				FF8C204B2E2834B7003BE36A /* appTests */,
+				FF8C20552E2834B7003BE36A /* appUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		FF757F232E27EEC000B5403A /* Resources */ = {
+		FF8C203D2E2834B5003BE36A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		FF757F302E27EEC100B5403A /* Resources */ = {
+		FF8C204A2E2834B7003BE36A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		FF757F3A2E27EEC100B5403A /* Resources */ = {
+		FF8C20542E2834B7003BE36A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -232,21 +232,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		FF757F212E27EEC000B5403A /* Sources */ = {
+		FF8C203B2E2834B5003BE36A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		FF757F2E2E27EEC100B5403A /* Sources */ = {
+		FF8C20482E2834B7003BE36A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		FF757F382E27EEC100B5403A /* Sources */ = {
+		FF8C20522E2834B7003BE36A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -256,20 +256,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		FF757F342E27EEC100B5403A /* PBXTargetDependency */ = {
+		FF8C204E2E2834B7003BE36A /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = FF757F242E27EEC000B5403A /* frontend */;
-			targetProxy = FF757F332E27EEC100B5403A /* PBXContainerItemProxy */;
+			target = FF8C203E2E2834B5003BE36A /* app */;
+			targetProxy = FF8C204D2E2834B7003BE36A /* PBXContainerItemProxy */;
 		};
-		FF757F3E2E27EEC100B5403A /* PBXTargetDependency */ = {
+		FF8C20582E2834B7003BE36A /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = FF757F242E27EEC000B5403A /* frontend */;
-			targetProxy = FF757F3D2E27EEC100B5403A /* PBXContainerItemProxy */;
+			target = FF8C203E2E2834B5003BE36A /* app */;
+			targetProxy = FF8C20572E2834B7003BE36A /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		FF757F442E27EEC100B5403A /* Debug */ = {
+		FF8C205E2E2834B7003BE36A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -332,7 +332,7 @@
 			};
 			name = Debug;
 		};
-		FF757F452E27EEC100B5403A /* Release */ = {
+		FF8C205F2E2834B7003BE36A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -388,7 +388,7 @@
 			};
 			name = Release;
 		};
-		FF757F472E27EEC100B5403A /* Debug */ = {
+		FF8C20612E2834B7003BE36A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -407,7 +407,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.mmalaunch.frontend;
+				PRODUCT_BUNDLE_IDENTIFIER = mmalaunch.app;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -415,7 +415,7 @@
 			};
 			name = Debug;
 		};
-		FF757F482E27EEC100B5403A /* Release */ = {
+		FF8C20622E2834B7003BE36A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -434,7 +434,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.mmalaunch.frontend;
+				PRODUCT_BUNDLE_IDENTIFIER = mmalaunch.app;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -442,7 +442,7 @@
 			};
 			name = Release;
 		};
-		FF757F4A2E27EEC100B5403A /* Debug */ = {
+		FF8C20642E2834B7003BE36A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -451,16 +451,16 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.mmalaunch.frontendTests;
+				PRODUCT_BUNDLE_IDENTIFIER = mmalaunch.appTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/frontend.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/frontend";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/app.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/app";
 			};
 			name = Debug;
 		};
-		FF757F4B2E27EEC100B5403A /* Release */ = {
+		FF8C20652E2834B7003BE36A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -469,87 +469,87 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.mmalaunch.frontendTests;
+				PRODUCT_BUNDLE_IDENTIFIER = mmalaunch.appTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/frontend.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/frontend";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/app.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/app";
 			};
 			name = Release;
 		};
-		FF757F4D2E27EEC100B5403A /* Debug */ = {
+		FF8C20672E2834B7003BE36A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.mmalaunch.frontendUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = mmalaunch.appUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = frontend;
+				TEST_TARGET_NAME = app;
 			};
 			name = Debug;
 		};
-		FF757F4E2E27EEC100B5403A /* Release */ = {
+		FF8C20682E2834B7003BE36A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.mmalaunch.frontendUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = mmalaunch.appUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = frontend;
+				TEST_TARGET_NAME = app;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		FF757F202E27EEC000B5403A /* Build configuration list for PBXProject "frontend" */ = {
+		FF8C203A2E2834B5003BE36A /* Build configuration list for PBXProject "app" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FF757F442E27EEC100B5403A /* Debug */,
-				FF757F452E27EEC100B5403A /* Release */,
+				FF8C205E2E2834B7003BE36A /* Debug */,
+				FF8C205F2E2834B7003BE36A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		FF757F462E27EEC100B5403A /* Build configuration list for PBXNativeTarget "frontend" */ = {
+		FF8C20602E2834B7003BE36A /* Build configuration list for PBXNativeTarget "app" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FF757F472E27EEC100B5403A /* Debug */,
-				FF757F482E27EEC100B5403A /* Release */,
+				FF8C20612E2834B7003BE36A /* Debug */,
+				FF8C20622E2834B7003BE36A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		FF757F492E27EEC100B5403A /* Build configuration list for PBXNativeTarget "frontendTests" */ = {
+		FF8C20632E2834B7003BE36A /* Build configuration list for PBXNativeTarget "appTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FF757F4A2E27EEC100B5403A /* Debug */,
-				FF757F4B2E27EEC100B5403A /* Release */,
+				FF8C20642E2834B7003BE36A /* Debug */,
+				FF8C20652E2834B7003BE36A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		FF757F4C2E27EEC100B5403A /* Build configuration list for PBXNativeTarget "frontendUITests" */ = {
+		FF8C20662E2834B7003BE36A /* Build configuration list for PBXNativeTarget "appUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FF757F4D2E27EEC100B5403A /* Debug */,
-				FF757F4E2E27EEC100B5403A /* Release */,
+				FF8C20672E2834B7003BE36A /* Debug */,
+				FF8C20682E2834B7003BE36A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = FF757F1D2E27EEC000B5403A /* Project object */;
+	rootObject = FF8C20372E2834B5003BE36A /* Project object */;
 }

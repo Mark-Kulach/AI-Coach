@@ -1,3 +1,10 @@
+//
+//  ContentView.swift
+//  app
+//
+//  Created by Mark Kulach on 7/16/25.
+//
+
 import SwiftUI
 
 struct ContentView: View {
@@ -15,4 +22,3 @@ struct ContentView: View {
 #Preview {
     ContentView()
 }
-    

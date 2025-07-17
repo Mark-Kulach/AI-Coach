@@ -1,13 +1,13 @@
 //
-//  frontendUITests.swift
-//  frontendUITests
+//  appUITests.swift
+//  appUITests
 //
 //  Created by Mark Kulach on 7/16/25.
 //
 
 import XCTest
 
-final class frontendUITests: XCTestCase {
+final class appUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

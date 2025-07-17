@@ -1,5 +1,7 @@
 # Pycharm user data
-.idea
+.idea/
 
 # Xcode user data
-frontend/frontend.xcodeproj/xcuserdata
+app/app.xcodeproj/xcuserdata
+app/app.xcodeproj/project.xcworkspace/xcuserdata
+app/app.xcodeproj/project.xcworkspace/xcshareddata

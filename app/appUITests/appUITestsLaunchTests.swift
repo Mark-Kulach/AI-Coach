@@ -1,13 +1,13 @@
 //
-//  frontendUITestsLaunchTests.swift
-//  frontendUITests
+//  appUITestsLaunchTests.swift
+//  appUITests
 //
 //  Created by Mark Kulach on 7/16/25.
 //
 
 import XCTest
 
-final class frontendUITestsLaunchTests: XCTestCase {
+final class appUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

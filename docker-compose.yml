@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  api:
+    build:
+      context: ./api
+    env_file: .env
+    volumes:
+      - ./api:/app
+
+  video-analyzer:
+    build:
+      context: ./video-analyzer
+    env_file: .env
+    volumes:
+      - ./video-analyzer:/app

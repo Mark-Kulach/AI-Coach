@@ -1,4 +1,4 @@
-from fastapi import FastAPI, File, UploadFile,
+from fastapi import FastAPI, File, UploadFile
 from google.cloud import storage
 from fastapi.responses import JSONResponse
 import logging

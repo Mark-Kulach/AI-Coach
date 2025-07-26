@@ -5,12 +5,12 @@ services:
     build:
       context: ./api
     env_file: .env
+    ports:
+      - "8000:8000"
     volumes:
-      - ./api:/app
+      - ./api/user-uploader-key.json:/app/user-uploader-key.json:ro
 
   video-analyzer:
     build:
       context: ./video-analyzer
     env_file: .env
-    volumes:
-      - ./video-analyzer:/app

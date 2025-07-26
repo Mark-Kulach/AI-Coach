@@ -5,3 +5,6 @@
 app/app.xcodeproj/xcuserdata
 app/app.xcodeproj/project.xcworkspace/xcuserdata
 app/app.xcodeproj/project.xcworkspace/xcshareddata
+
+
+api/user-uploader-key.json
